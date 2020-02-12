@@ -1,5 +1,10 @@
-body{
-    background-color: hsl(308, 55%, 44%);
+/*
+    Elements: Images
+    ---
+    Default markup for images to make them responsive
+*/
 
-
+img {
+    max-width: 50%;
+    vertical-align: top;
 }
